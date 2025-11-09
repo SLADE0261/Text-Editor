@@ -254,10 +254,6 @@ Contributions are welcome! Areas for improvement:
 
 Please feel free to submit pull requests or open issues for bugs and feature requests.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Author
 
 **Your Name**
@@ -285,5 +281,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - [ ] Extended undo/redo history with persistence
 
 ---
+
 
 **⭐ If you find this project useful, please consider giving it a star!**
